@@ -1,5 +1,3 @@
-package Project;
-
 public class SRTF {
     public static void findSRT(int processes[], int n, int bt[]) {
         int remaining_bt[] = new int[n], wt[] = new int[n], tat[] = new int[n];

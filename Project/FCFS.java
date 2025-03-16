@@ -1,5 +1,3 @@
-package Project;
-
 public class FCFS {
     public static void findFCFS(int processes[], int n, int bt[]) {
         int wt[] = new int[n], tat[] = new int[n], ct[] = new int[n];
